@@ -25,3 +25,4 @@ class IQTreeTask extends tk.Task {
     }
 }
 exports.IQTreeTask = IQTreeTask;
+exports.Task = IQTreeTask;

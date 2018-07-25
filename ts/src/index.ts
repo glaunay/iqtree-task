@@ -29,3 +29,5 @@ export class IQTreeTask extends tk.Task {
 	    }
     }
 }
+
+export {IQTreeTask as Task}
